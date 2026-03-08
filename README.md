@@ -2,7 +2,7 @@
 
 ---
 
-Hello, I am Emmanuel Chukwuemeka Okafor 
+Hello, I am Okafor Emmanuel Chukwuemeka 
 
 I am a Computer Science student building functional, full-stack web applications and optimizing workflows through advanced AI-assisted development.
 
