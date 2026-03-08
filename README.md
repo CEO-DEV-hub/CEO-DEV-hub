@@ -23,7 +23,7 @@ I am a Computer Science student building functional, full-stack web applications
 
 ### 🚀 Projects
 
-* Club CEO | Full-Stack Table Reservation System 
+ **[Club CEO | Full-Stack Table Reservation System](https://club-ceo-personal.vercel.app/)** 
 
 
 * Developed a high-performance web application for real-time table reservations.
@@ -37,7 +37,7 @@ I am a Computer Science student building functional, full-stack web applications
 
 
 
-* 
+  
 **[Nigerian University GPA/CGPA Calculator](https://naija-gpa-pro.vercel.app/)** 
 
 
