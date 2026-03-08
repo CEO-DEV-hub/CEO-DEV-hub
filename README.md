@@ -55,12 +55,10 @@ I am a Computer Science student building functional, full-stack web applications
 
 ### 📫 Connect With Me
 
-* 
-**Email:** okafore907@gmail.com 
+* **Email:** okafore907@gmail.com 
 
 
-* 
-**LinkedIn:** [emmanuel-okafor](https://www.google.com/search?q=https://linkedin.com/in/emmanuel-okafor) 
+* **LinkedIn:** [emmanuel-okafor](https://www.google.com/search?q=https://linkedin.com/in/emmanuel-okafor) 
 
 
 * **GitHub:** [CEO-DEV-hub](https://github.com/CEO-DEV-hub)
