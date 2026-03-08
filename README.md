@@ -8,20 +8,16 @@ I am a Computer Science student building functional, full-stack web applications
 
 ### 💻 Tech Stack
 
-* 
-**Frontend:** React.js, Vite, TypeScript, Tailwind CSS 
+* **Frontend:** React.js, Vite, TypeScript, Tailwind CSS 
 
 
-* 
-**Backend & Database:** Firebase (Firestore) 
+* **Backend & Database:** Firebase (Firestore) 
 
 
-* 
-**Deployment:** Vercel 
+* **Deployment:** Vercel 
 
 
-* 
-**Core Skills:** AI Prompt Engineering, Basic IT Support, Data Management 
+* **Core Skills:** AI Prompt Engineering, Basic IT Support, Data Management 
 
 
 
