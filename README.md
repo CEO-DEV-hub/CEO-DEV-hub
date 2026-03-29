@@ -47,7 +47,7 @@ I am a Computer Science student building functional, full-stack web applications
 * Engineered a dynamic generator allowing students to export and download structured academic records.
 
 
-* Managed persistent user data and result history using Firebase.
+  
 
 
 
