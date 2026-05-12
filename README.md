@@ -47,7 +47,7 @@ I am a Computer Science student building functional, full-stack web applications
 * Engineered a dynamic generator allowing students to export and download structured academic records.
 
 
-**[🍲 Naija Flavour | Full-Stack Nigerian Meal Planner](https://naija-flavour-ui.onrender.com)/**
+**[🍲 Naija Flavour | Full-Stack Nigerian Meal Planner](https://naija-flavour-ui.onrender.com)**
   
   
 * Deployed a containerized PHP environment and a Vite-powered frontend on Render, integrated with a managed MySQL instance on Aiven.
