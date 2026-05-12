@@ -49,11 +49,11 @@ I am a Computer Science student building functional, full-stack web applications
 
   **[🍲 Naija Flavour | Full-Stack Nigerian Meal Planner](https://naija-flavour-ui.onrender.com)/**
   
-  *Deployed a containerized PHP environment and a Vite-powered frontend on Render, integrated with a managed MySQL instance on Aiven.
+  * Deployed a containerized PHP environment and a Vite-powered frontend on Render, integrated with a managed MySQL instance on Aiven.
 
-  *Features a curated database of 105+ authentic recipes with automated 30-day meal plan generation.
+  * Features a curated database of 105+ authentic recipes with automated 30-day meal plan generation.
 
-  *Secure PDF generation service, interactive meal planner, and a RESTful API with strict CORS and SSL enforcement.
+  * Secure PDF generation service, interactive meal planner, and a RESTful API with strict CORS and SSL enforcement.
   
   
 
