@@ -11,10 +11,10 @@ I am a Computer Science student building functional, full-stack web applications
 * **Frontend:** React.js, Vite, TypeScript, Tailwind CSS 
 
 
-* **Backend & Database:** Firebase (Firestore) 
+* **Backend & Database:** Firebase (Firestore), PHP, MySQL, Docker 
 
 
-* **Deployment:** Vercel 
+* **Deployment:** Vercel, Render
 
 
 * **Core Skills:** AI Prompt Engineering, Basic IT Support, Data Management 
@@ -45,6 +45,17 @@ I am a Computer Science student building functional, full-stack web applications
 
 
 * Engineered a dynamic generator allowing students to export and download structured academic records.
+
+
+  **[🍲 Naija Flavour | Full-Stack Nigerian Meal Planner](https://naija-flavour-ui.onrender.com)/**
+  
+  *Deployed a containerized PHP environment and a Vite-powered frontend on Render, integrated with a managed MySQL instance on Aiven.
+
+  *Features a curated database of 105+ authentic recipes with automated 30-day meal plan generation.
+
+  *Secure PDF generation service, interactive meal planner, and a RESTful API with strict CORS and SSL enforcement.
+  
+  
 
 
   
