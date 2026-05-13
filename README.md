@@ -55,6 +55,22 @@ I am a Computer Science student building functional, full-stack web applications
 * Features a curated database of 105+ authentic recipes with automated 30-day meal plan generation.
 
 * Secure PDF generation service, interactive meal planner, and a RESTful API with strict CORS and SSL enforcement.
+
+
+**[Web-Based, Secure Grievance Redressal and Whistle-Blowing System](unidel-grievance-system.vercel.app)**
+
+
+* A highly secure, serverless platform designed to handle sensitive institutional feedback while strictly protecting user anonymity.
+  
+*  Architected entirely without frontend frameworks to ensure a lightweight, highly modular codebase.
+  
+*  Features a custom escalation and routing engine that intelligently directs grievances based on the target entity (Lecturer, HOD, or Dean)
+  
+* Implemented a "Hidden Author ID" protocol utilizing Firebase UIDs to protect whistleblower identities from network sniffing.
+  
+*  Includes a custom Decryption Matrix that allows authorized personnel to securely reveal identities only under strict, predefined conditions
+  
+*  Hardened by rigorous Firestore Security Rules enforcing Role-Based Access Control (RBAC) to prevent global read/write access and unauthorized data tampering
   
   
 
