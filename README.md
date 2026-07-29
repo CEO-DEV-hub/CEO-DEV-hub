@@ -11,13 +11,13 @@ I am a Computer Science Graduate building functional, full-stack web application
 * **Frontend:** React.js, Vite,Next.js, TypeScript, Tailwind CSS, Semantic HTML5, Plain CSS3, Vanilla JavaScript
 
 
-* **Backend & Database:** Firebase (Firestore), PHP,Node.js, Nest.js MySQL, Aiven, Docker 
+* **Backend & Database:** Firebase (Firestore), PHP,Node.js, Nest.js, MySQL, Aiven, Docker 
 
 
 * **Deployment:** Vercel, Render
 
 
-* **Core Skills:** AI Prompt Engineering, Basic IT Support, Data Management 
+* **Core Skill:** AI Prompt Engineering
 
 
 
