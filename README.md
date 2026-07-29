@@ -8,10 +8,10 @@ I am a Computer Science Graduate building functional, full-stack web application
 
 ### 💻 Tech Stack
 
-* **Frontend:** React.js, Vite, TypeScript, Tailwind CSS, Semantic HTML5, Plain CSS3, Vanilla JavaScript
+* **Frontend:** React.js, Vite,Next.js, TypeScript, Tailwind CSS, Semantic HTML5, Plain CSS3, Vanilla JavaScript
 
 
-* **Backend & Database:** Firebase (Firestore), PHP,Node.js, MySQL, Aiven, Docker 
+* **Backend & Database:** Firebase (Firestore), PHP,Node.js, Nest.js MySQL, Aiven, Docker 
 
 
 * **Deployment:** Vercel, Render
