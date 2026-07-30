@@ -14,7 +14,7 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 * **Backend & Database:** Firebase (Firestore), PHP,Node.js, Nest.js, MySQL, Aiven, Docker 
 
 
-* **Deployment:** Vercel, Render
+* **Deployment:** Render
 
 
 * **Core Skill:** AI Prompt Engineering
@@ -38,7 +38,7 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 
 
   
-**[Nigerian University GPA/CGPA Calculator](https://naija-gpa-pro.vercel.app/)** 
+**[Nigerian University GPA/CGPA Calculator](https://naija-gpa-pro.onrender.com/)** 
 
 
 * Architected a specialized academic tool tailored for the Nigerian university grading system,utilizing advanced AI prompting to model complex CGPA calculation logic and data structures.
