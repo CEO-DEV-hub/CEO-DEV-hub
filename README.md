@@ -23,7 +23,7 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 
 ### 🚀 Projects
 
- **[Club CEO | Full-Stack Table Reservation System](https://club-ceo-personal.vercel.app/)** 
+ **[Club CEO | Full-Stack Table Reservation System](https://club-ceo-personal.onrender.com/)** 
 
 
 * Developed a high-performance website for real-time table reservations,leveraging AI Prompt Engineering to accelerate component architecture and complex state management..
