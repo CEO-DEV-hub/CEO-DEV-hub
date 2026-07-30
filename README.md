@@ -4,7 +4,7 @@
 
 Hello, I am Okafor Emmanuel Chukwuemeka 
 
-I am a Computer Science Graduate building functional, full-stack web applications and optimizing workflows through advanced AI-assisted development.
+I am a Computer Science Graduate building functional, full-stack websites and optimizing workflows through advanced AI-assisted development.
 
 ### 💻 Tech Stack
 
@@ -26,7 +26,7 @@ I am a Computer Science Graduate building functional, full-stack web application
  **[Club CEO | Full-Stack Table Reservation System](https://club-ceo-personal.vercel.app/)** 
 
 
-* Developed a high-performance web application for real-time table reservations,leveraging AI Prompt Engineering to accelerate component architecture and complex state management..
+* Developed a high-performance website for real-time table reservations,leveraging AI Prompt Engineering to accelerate component architecture and complex state management..
 
 
 * Implemented a responsive UI ensuring type safety and a seamless user experience across all devices.
