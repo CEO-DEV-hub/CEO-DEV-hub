@@ -80,7 +80,7 @@ I am a Computer Science Graduate building functional, full-stack websites and op
   
 *  Includes a custom Decryption Matrix that allows authorized personnel to securely reveal identities only under strict, predefined conditions
   
-*  Hardened by rigorous Firestore Security Rules enforcing Role-Based Access Control (RBAC) to prevent global read/write access and unauthorized data tampering
+
   
   
 
