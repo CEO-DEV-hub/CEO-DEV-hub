@@ -17,7 +17,6 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 * **Deployment:** Render
 
 
-* **Core Skill:** AI Prompt Engineering
 
 
 
