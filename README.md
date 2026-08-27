@@ -57,7 +57,7 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 
 
 **[Automated Inventory Monitoring & Expiry Date Alert System](https://aim-edas.onrender.com/)**
- * **Multi-Location Inventory & Unit Conversion:** Manages stock across warehouses, store floors, and cold storage with smart carton-to-piece conversions and full batch-level audit trails.
+ * **Multi-Location Inventory & Unit Conversion:** Manages stock across warehouses with smart carton-to-piece conversions and full batch-level audit trails.
 * **High-Speed POS & Thermal Receipts:** Supports camera and hardware barcode scanners, executes automated FIFO batch deductions, and generates standard 80mm/58mm receipts with instant printing or PDF downloads.
 * **5-Milestone Expiry Tracking:** Runs daily scans to categorize and color-code expiring inventory across five stages (from 30 days down to expired).
 * **Automated Email Alerts:** Sends real-time Gmail SMTP/PHPMailer notifications for completed sales, inventory movements, admin expiry digests, and login security events.
