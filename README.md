@@ -57,39 +57,13 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 
 
 **[Automated Inventory Monitoring & Expiry Date Alert System](https://aim-edas.onrender.com//)**
- A full-featured web-based Inventory Management and Point of Sale (POS) application tailored for supermarkets, retail stores, and warehouses. It provides real-time stock monitoring, FIFO batch deductions, automated 5-milestone expiry tracking, long thermal receipt printing, and live email notifications.
- ## 🚀 Key Features
-### 1. 📦 Intelligent Product & Multi-Location Stock Management
-- **Unified Product Catalog:** Single row per product with expandable accordion to view individual batch numbers, expiry dates, locations (Warehouse, Store Floor, Cold Storage), and remaining quantities.
-- **Smart Unit Conversion:** Receive stock in Cartons, Dozens, or Packs with automatic conversion to base pieces.
-- **Batch-Level Operations:** Multi-location stock transfers, quantity adjustments, and deletion with comprehensive audit trails.
+ * **Multi-Location Inventory & Unit Conversion:** Manages stock across warehouses, store floors, and cold storage with smart carton-to-piece conversions and full batch-level audit trails.
+* **High-Speed POS & Thermal Receipts:** Supports camera and hardware barcode scanners, executes automated FIFO batch deductions, and generates standard 80mm/58mm receipts with instant printing or PDF downloads.
+* **5-Milestone Expiry Tracking:** Runs daily scans to categorize and color-code expiring inventory across five stages (from 30 days down to expired).
+* **Automated Email Alerts:** Sends real-time Gmail SMTP/PHPMailer notifications for completed sales, inventory movements, admin expiry digests, and login security events.
+* **Analytics, Security & Compliance:** Features live dashboards for inventory valuation (₦) and sales trends, one-click CSV exports, JWT-based role access, and brute-force lockout safeguards.
 
-### 2. 🛒 High-Speed Point of Sale (POS) Checkout
-- **Barcode Scanner Integration:** Camera-based scanning via `html5-qrcode` and direct support for USB/Bluetooth hardware barcode scanners.
-- **FIFO Auto-Deduction:** Automatically deducts sold items from the earliest expiring batch.
-- **Nigerian Supermarket Thermal Receipt:** Standard 80mm / 58mm POS receipt formatting with itemization, taxes, cashier info, and vector barcodes.
 
-- **Hardware POS Print & PDF Download:** Instant thermal printer trigger (`window.print()`) and high-resolution PDF download (`html2pdf.js`).
-- **Dashboard Reprinting:** View, print, or download receipts directly from Recent POS Sync Logs.
-
-### 3. ⏳ Automated 5-Milestone Expiry Tracking
-- Automatic daily scans for batches expiring across 5 critical milestones:
-  - **30 Days** (Approaching Expiry - Blue)
-  - **14 Days** (Notice - Amber)
-  - **7 Days** (Critical Attention - Orange)
-  - **1 Day** (Urgent Expiry - Red)
-  - **0 Days / Expired** (Expired - Dark Red)
-
-### 4. 📧 Real-Time Email Notifications (Gmail SMTP / PHPMailer)
-- **POS Sale Alert:** Live notification for every completed checkout including sold quantities and updated remaining stock levels.
-- **Login Security Alert:** Immediate notification on every login attempt (successful or failed) with IP address, browser/device info, and timestamp.
-- **Stock Movements:** Real-time email alerts for stock received and stock deletions.
-- **Automated Expiry Reports:** Proactive notifications sent directly to administrators.
-
-### 5. 📊 Reports, Analytics & Auditing
-- **Visual Analytics:** Real-time metrics for inventory valuation (₦), low-stock items, and 7-day sales trends.
-- **One-Click CSV Export:** Export complete inventory reports for offline analysis.
-- **Security & RBAC:** JWT authentication, brute-force lockout protection (5 failed attempts max), and full action audit logging.
 
 
 
