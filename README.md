@@ -64,33 +64,6 @@ I am a Computer Science Graduate building functional, full-stack websites and op
 * **Analytics, Security & Compliance:** Features live dashboards for inventory valuation (₦) and sales trends, one-click CSV exports, JWT-based role access, and brute-force lockout safeguards.
 
 
-
-
-
-**[Web-Based, Secure Grievance Redressal and Whistle-Blowing System](https://unidel-grievance-system.onrender.com/)**
-
-
-* A highly secure, serverless platform designed to handle sensitive institutional feedback while strictly protecting user anonymity.
-  
-*  Architected entirely without frontend frameworks to ensure a lightweight, highly modular codebase.
-  
-*  Features a custom escalation and routing engine that intelligently directs grievances based on the target entity (Lecturer, HOD, or Dean)
-  
-* Implemented a "Hidden Author ID" protocol utilizing Firebase UIDs to protect whistleblower identities from network sniffing.
-  
-*  Includes a custom Decryption Matrix that allows authorized personnel to securely reveal identities only under strict, predefined conditions
-  
-
-  
-  
-
-
-  
-
-
-
-
-
 ### 📫 Connect With Me
 
 * **Email:** okafore907@gmail.com 
