@@ -2,9 +2,7 @@
 
 ---
 
-Hello, I am Okafor Emmanuel Chukwuemeka 
-
-I am a Computer Science Graduate building functional, full-stack websites and optimizing workflows through advanced AI-assisted development.
+Hello, I am Okafor Emmanuel Chukwuemeka, a Computer Science Graduate building functional, full-stack websites and optimizing workflows through advanced AI-assisted development.
 
 ### 💻 Tech Stack
 
